@@ -5,6 +5,7 @@ MAYLLE
 # COLABORADORES: 
 <<<<<<< HEAD
 - Ricardo Matamoros Laura
+- Midwar Jose Cacya Torocahua
 
 
 
