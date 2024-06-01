@@ -4,4 +4,7 @@ Este es un proyecto para practicar Git y GitHub
 MAYLLE
 # COLABORADORES: 
 - Ricardo Matamoros Laura
+- Midwar Jose Cacya Torocahua
+
+
 
